@@ -1,0 +1,5 @@
+Type correct option:
+[1] Make picture RED
+[2] Make picture GREEN
+[3] Make picture BLUE
+[else] Exit
