@@ -3,7 +3,7 @@
 PixelArt changes the colors of selected photos and saves them as new files.
 
 ##  Used tools:
-- C++ version: C++11
+- C++ version: C++17
 - IDE: VS 2017
 - Environment: Windows
 - NVIDIA Cg
